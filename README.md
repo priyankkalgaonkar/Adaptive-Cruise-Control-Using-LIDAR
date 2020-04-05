@@ -1,5 +1,5 @@
 # Adaptive Cruise Control Using LIDAR
-Code was developed in NXP S32 Design Studio for Arm IDE, locally.
+Code was developed in NXP S32 Design Studio for Arm IDE and Matlab Simulink 2019b.
 
 The design of Adaptive Cruise Control system uses two microcontroller units, a Garmin LIDAR module which is compact and high-performance optical distance measurement sensor, and Brushless DC (BLDC) electric motor. The main objective of Adaptive Cruise Control Using LIDAR project is to enable the cruise control system used in road vehicles to automatically slow down or speed up the vehicle up to a speed limit set by the driver. The result is improved driver's comfort, and safety of the vehicle and other traffic on the road by minimizing rear-end collisions.
 
